@@ -10,7 +10,8 @@
 検出手法に対して敵対的な学習をLLMがすることで、従来の検出手法を騙しながら性能を維持することができるのかについて、研究しています！
 
 ## 学会参加
-- YANS2024 参加予定です！
+- YANS2024 参加
+- NLP2025 参加
 
 <!---
 yukinari-takahashi/yukinari-takahashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
