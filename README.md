@@ -2,7 +2,7 @@
 - 名前　：高橋 侑成 (たかはし ゆきなり)
 - 学年　：M1
 - 所属　：東京科学大学 岡崎研究室
-- 連絡先：takahashi.y.dc@m.titech.ac.jp
+- 連絡先：yukinari.takahashi@nlp.comp.isct.ac.jp
 - 趣味　：サッカー視聴、ゴルフ、麻雀 など
 
 ## 興味
